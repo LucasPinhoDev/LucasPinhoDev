@@ -1,16 +1,15 @@
-### Hi there 👋
+## Olá! Bem-vindo! 👋
 
-<!--
-**LucasPinhoDev/LucasPinhoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou o _[Lucas G. Pinho](https://www.linkedin.com/in/lucas-pinho-software-engineer/)_. Sou formado em Engenharia de Software pela Católica de Santa Catarina. Sou desenvolvedor a mais de 3 anos. Sou apaixonado por tecnologia desde pequeno.
 
-Here are some ideas to get you started:
+## Contato
+<a href="mailto:lucas.gabrielpinho@yahoo.com"><img alt="Yahoo" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Rede Social
+
+<a href="https://www.linkedin.com/in/lucas-pinho-software-engineer/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+## GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasPinhoDev&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPinhoDev&layout=compact)
